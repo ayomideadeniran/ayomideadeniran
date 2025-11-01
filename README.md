@@ -1,16 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=200&section=header&text=Ayomide%20Adeniran&fontSize=50&fontColor=64ffda&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Systems%20Architect%20%26%20AI/ML%20Integrator&descSize=20&descAlignY=55&descAlign=50" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayomideadeniran&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views">
-</div>
+  
+# 👋 Hi, I'm Ayomide Adeniran
 
 <br>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+line+at+a+time;Systems+Architect+%26+AI%2FML+Engineer;Full-Stack+Developer;Open-Source+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=5000&pause=1500&color=64FFDA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Systems+Architect+%26+AI%2FML+Engineer;Building+the+future%2C+one+line+at+a+time;Open-Source+Enthusiast)](https://git.io/typing-svg)
   
 </div>
 
@@ -23,9 +19,13 @@
   <a href="https://www.linkedin.com/in/ayomide-adeniran-bb3ba930b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="ayomideratata@gmail.com">
+
+  
+<a href="mailto:ayomideratata@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+
+  
   <a href="https://github.com/ayomideadeniran">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
@@ -40,16 +40,16 @@
 ```typescript
 const ayomide = {
     location: "Lagos, Nigeria 🇳🇬",
-    role: "Full-Stack Systems Architect",
+    role: "Full-Stack Software Engineer",
     code: ["Python", "Rust", "TypeScript", "JavaScript", "C"],
     technologies: {
         frontend: ["React", "Next.js", "TailwindCSS"],
-        backend: ["Node.js", "FastAPI", "Express"],
+        backend: ["Node.js", "FastAPI", "Rust", "Express"],
         databases: ["MongoDB", "PostgreSQL", "Redis"],
         devOps: ["Docker", "Git", "Linux", "Bash"],
         ai_ml: ["TensorFlow", "PyTorch", "Langchain", "OpenAI"]
     },
-    focus: ["AI/ML Integration", "Systems Programming", "Blockchain"],
+    focus: ["Backend Developer", "AI/ML Integration", "Systems Programming", "Blockchain"],
     funFact: "I believe the best code is the code you don't have to write 💡"
 };
 ```
@@ -111,7 +111,10 @@ const ayomide = {
 
 
 
-## 🐍 Contribution Snake 
+
+
+
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
@@ -142,7 +145,7 @@ const ayomide = {
   
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayomide-adeniran-bb3ba930b)
   [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/AtechAtechAtech)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.ayomideratata@gmail.com)
   
 </div>
 
